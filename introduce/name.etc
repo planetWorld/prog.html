@@ -2,13 +2,11 @@
  <html>
   <head>
   <meta charset ="utf-8">
+  <title>My hope</title>
   </head>
     <body>
-     <ul>
-        <li>私の自己紹介</li>
-       <li>主に趣味でプログラミングをたたいてます。</li>
-       <li>将来はシステムエンジニアになりたい</li>
-     <ul>
+     <h1>初めてのプログラミング</h1>
+     <p>私の夢はシステムエンジニアになること</p>
     </body>
  </html>
 
